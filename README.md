@@ -1,7 +1,7 @@
 # Custom TableView
 A Swift 2 app implementing a list of things with a custom TableView cell.
 
-![](https://github.com/duliodenis/customtableview/blob/master/art/customtableview.gif)
+![](https://github.com/duliodenis/customtableview/blob/master/art/customTableView.gif)
 
 ### Licensing
 WebRequest is licensed under [the MIT License](https://github.com/duliodenis/customtableview/blob/master/LICENSE).
